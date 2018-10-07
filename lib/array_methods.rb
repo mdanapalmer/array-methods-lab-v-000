@@ -1,3 +1,3 @@
-def using_include(array, index)
+def using_include(array, element)
   array.include?
 end
